@@ -1,0 +1,17 @@
+C:\Users\marsh\OneDrive\Documentos\Universitat\2n Curs\2n Quatrimestre\SO\S4\EjercicioGuia_Ejercicio2\Cliente_Ejercicio2\bin\Debug\net6.0-windows\Cliente_Ejercicio2.exe
+C:\Users\marsh\OneDrive\Documentos\Universitat\2n Curs\2n Quatrimestre\SO\S4\EjercicioGuia_Ejercicio2\Cliente_Ejercicio2\bin\Debug\net6.0-windows\Cliente_Ejercicio2.deps.json
+C:\Users\marsh\OneDrive\Documentos\Universitat\2n Curs\2n Quatrimestre\SO\S4\EjercicioGuia_Ejercicio2\Cliente_Ejercicio2\bin\Debug\net6.0-windows\Cliente_Ejercicio2.runtimeconfig.json
+C:\Users\marsh\OneDrive\Documentos\Universitat\2n Curs\2n Quatrimestre\SO\S4\EjercicioGuia_Ejercicio2\Cliente_Ejercicio2\bin\Debug\net6.0-windows\Cliente_Ejercicio2.dll
+C:\Users\marsh\OneDrive\Documentos\Universitat\2n Curs\2n Quatrimestre\SO\S4\EjercicioGuia_Ejercicio2\Cliente_Ejercicio2\bin\Debug\net6.0-windows\Cliente_Ejercicio2.pdb
+C:\Users\marsh\OneDrive\Documentos\Universitat\2n Curs\2n Quatrimestre\SO\S4\EjercicioGuia_Ejercicio2\Cliente_Ejercicio2\obj\Debug\net6.0-windows\Cliente_Ejercicio2.csproj.AssemblyReference.cache
+C:\Users\marsh\OneDrive\Documentos\Universitat\2n Curs\2n Quatrimestre\SO\S4\EjercicioGuia_Ejercicio2\Cliente_Ejercicio2\obj\Debug\net6.0-windows\Cliente_Ejercicio2.Form1.resources
+C:\Users\marsh\OneDrive\Documentos\Universitat\2n Curs\2n Quatrimestre\SO\S4\EjercicioGuia_Ejercicio2\Cliente_Ejercicio2\obj\Debug\net6.0-windows\Cliente_Ejercicio2.csproj.GenerateResource.cache
+C:\Users\marsh\OneDrive\Documentos\Universitat\2n Curs\2n Quatrimestre\SO\S4\EjercicioGuia_Ejercicio2\Cliente_Ejercicio2\obj\Debug\net6.0-windows\Cliente_Ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marsh\OneDrive\Documentos\Universitat\2n Curs\2n Quatrimestre\SO\S4\EjercicioGuia_Ejercicio2\Cliente_Ejercicio2\obj\Debug\net6.0-windows\Cliente_Ejercicio2.AssemblyInfoInputs.cache
+C:\Users\marsh\OneDrive\Documentos\Universitat\2n Curs\2n Quatrimestre\SO\S4\EjercicioGuia_Ejercicio2\Cliente_Ejercicio2\obj\Debug\net6.0-windows\Cliente_Ejercicio2.AssemblyInfo.cs
+C:\Users\marsh\OneDrive\Documentos\Universitat\2n Curs\2n Quatrimestre\SO\S4\EjercicioGuia_Ejercicio2\Cliente_Ejercicio2\obj\Debug\net6.0-windows\Cliente_Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\marsh\OneDrive\Documentos\Universitat\2n Curs\2n Quatrimestre\SO\S4\EjercicioGuia_Ejercicio2\Cliente_Ejercicio2\obj\Debug\net6.0-windows\Cliente_Ejercicio2.dll
+C:\Users\marsh\OneDrive\Documentos\Universitat\2n Curs\2n Quatrimestre\SO\S4\EjercicioGuia_Ejercicio2\Cliente_Ejercicio2\obj\Debug\net6.0-windows\refint\Cliente_Ejercicio2.dll
+C:\Users\marsh\OneDrive\Documentos\Universitat\2n Curs\2n Quatrimestre\SO\S4\EjercicioGuia_Ejercicio2\Cliente_Ejercicio2\obj\Debug\net6.0-windows\Cliente_Ejercicio2.pdb
+C:\Users\marsh\OneDrive\Documentos\Universitat\2n Curs\2n Quatrimestre\SO\S4\EjercicioGuia_Ejercicio2\Cliente_Ejercicio2\obj\Debug\net6.0-windows\Cliente_Ejercicio2.genruntimeconfig.cache
+C:\Users\marsh\OneDrive\Documentos\Universitat\2n Curs\2n Quatrimestre\SO\S4\EjercicioGuia_Ejercicio2\Cliente_Ejercicio2\obj\Debug\net6.0-windows\ref\Cliente_Ejercicio2.dll
